@@ -1,6 +1,7 @@
 # Risk Scoring Model (Demo)
 
 A minimal **credit risk scoring** pipeline in Python using scikit-learn.
+Watered down version of what I made for ClarityPay.
 
 ## Contents
 - `risk_pipeline.py` – reusable pipeline (fit, save, load, predict_proba)
